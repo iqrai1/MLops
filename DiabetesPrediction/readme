@@ -1,0 +1,15 @@
+# Diabetes Prediction using Gradio
+
+This project implements a simple web interface for predicting diabetes in patients using Gradio. The predictive model is based on logistic regression and trained on a diabetes dataset.
+
+## Overview
+
+The main components of this project include:
+
+- `diabetes.csv`: The dataset used for training the model.
+
+- `diabetes_prediction.ipynb`: Jupyter Notebook containing the code for data processing, model training, and the Gradio app.
+
+- `logistic_regression_model.joblib`: Saved model file using joblib.
+
+- `README.md`: This documentation file.
